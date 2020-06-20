@@ -1,0 +1,18 @@
+[
+  {
+    "bread": 100,
+    "image": "/assets/beans.png"
+  },
+  {
+    "eggs": 100,
+    "image": "/assets/bread.png"
+  },
+  {
+    "milk": 100,
+    "image": "/assets/eggs.png"
+  },
+  {
+    "beans": 100,
+    "image": "/assets/milk.png"
+  }
+]
